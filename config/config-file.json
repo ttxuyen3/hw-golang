@@ -1,5 +1,5 @@
 {
-    "name": "hw-go",
+    "xapp_name": "hw-go",
     "version": "0.0.1",
     "vendor": "ric-app",
     "moId": "SEP",
